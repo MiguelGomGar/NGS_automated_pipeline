@@ -33,6 +33,9 @@ RES_DIR="$ROOT_DIR/results"
 # Timestamp for log files
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 
+# Create output directories if they don't exist yet
+mkdir -p "$TRIM_DIR" "$QC_DIR" "$RES_DIR"
+
 echo "======================================================================="
 echo " Initializing NGS pipeline at $TIMESTAMP..."
 echo " Project Root: $ROOT_DIR"
