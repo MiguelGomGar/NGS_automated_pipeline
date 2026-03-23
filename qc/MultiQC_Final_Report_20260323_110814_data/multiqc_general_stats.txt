@@ -1,0 +1,3 @@
+Sample	bowtie_2_hisat2-overall_alignment_rate	cutadapt-percent_trimmed
+BQ		21.49942811905422
+BQ_bowtie_stats_20260323_110814	82.93	

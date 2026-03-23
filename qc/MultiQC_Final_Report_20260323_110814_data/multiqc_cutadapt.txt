@@ -1,0 +1,2 @@
+Sample	cutadapt_version	r_processed	r_too_short	r_written	bp_processed	quality_trimmed	bp_written	percent_trimmed
+BQ	4.4	1086246	80049	1006197	64088514	4479813	50309850	21.49942811905422

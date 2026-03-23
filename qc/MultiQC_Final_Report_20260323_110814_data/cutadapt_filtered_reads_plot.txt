@@ -1,0 +1,2 @@
+Sample	Reads passing filters	Reads that were too short
+BQ	1006197.0	80049.0

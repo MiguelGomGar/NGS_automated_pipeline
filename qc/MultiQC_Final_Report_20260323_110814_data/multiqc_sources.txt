@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	BQ_bowtie_stats_20260323_110814	/workspaces/codespaces_NGS/assessments/final_coursework/results/BQ_bowtie_stats_20260323_110814.txt
+Cutadapt	all_sections	BQ	/workspaces/codespaces_NGS/assessments/final_coursework/qc/BQ_cutadapt_log_20260323_110814.txt

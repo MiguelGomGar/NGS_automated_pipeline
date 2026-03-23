@@ -1,0 +1,2 @@
+Sample	SE mapped uniquely	SE multimapped	SE not aligned
+BQ_bowtie_stats_20260323_110814	797484.0	36950.0	171763.0
