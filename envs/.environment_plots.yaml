@@ -1,0 +1,11 @@
+name: env_plots
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python =3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+

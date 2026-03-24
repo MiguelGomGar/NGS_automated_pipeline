@@ -1,0 +1,16 @@
+This is cutadapt 4.4 with Python 3.7.12
+Command line parameters: -q 15 -m 50 --trim-n -o ./data/trimmed/Negative_trimmed.fq ./data/raw/Negative.fq
+Processing single-end reads on 1 core ...
+Finished in 7.681 s (7.136 µs/read; 8.41 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               1,076,320
+
+== Read fate breakdown ==
+Reads that were too short:               7,815 (0.7%)
+Reads written (passing filters):     1,068,505 (99.3%)
+
+Total basepairs processed:    63,502,880 bp
+Quality-trimmed:               4,313,202 bp (6.8%)
+Total written (filtered):     53,425,250 bp (84.1%)

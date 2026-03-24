@@ -1,0 +1,18 @@
+name: env_NGS
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python =3.7
+  - tree
+  - fastqc
+  - cutadapt
+  - bowtie2
+  - igv
+  - freebayes
+  - vcflib
+  - bedtools
+  - samtools
+  - glib
+  - multiqc

@@ -150,6 +150,6 @@ done
 echo ====================================================================================
 # --- Final step: Global report with MultiQC ---
 echo "Generating MultiQC report..."
-/opt/conda/bin/multiqc "$QC_DIR" "$RES_DIR" -o "$QC_DIR" -n "MultiQC_Final_Report_${TIMESTAMP}.html"
+multiqc "$QC_DIR" "$RES_DIR" -o "$QC_DIR" -n "MultiQC_Final_Report_${TIMESTAMP}.html"
 
 echo "¡Pipeline finished at $(date +"%H:%M:%S")!"
