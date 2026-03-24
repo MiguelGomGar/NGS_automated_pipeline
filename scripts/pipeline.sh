@@ -81,7 +81,7 @@ for FILE in "$RAW_DIR"/*.fq; do
     TRIM_OUT="$TRIM_DIR/${BASENAME}_trimmed.fq"
 
     # Running cutadapt and logging stats to a timestamped file
-    cutadapt -q "$QUALITY_Q" -m "$MIN_LEN_M" --trim-n -o "$TRIM_OUT" "$FILE" > "$QC_DIR/${BASENAME}_cutadapt_log_${TIMESTAMP}.txt"
+    cutadapt -q "$QUALITY_Q" -m "$MIN_LEN_M" --trim-n -o "$TRIM_OUT" "$FILE" > "$RES_DIR/${BASENAME}_cutadapt_log_${TIMESTAMP}.txt"
 
     # --- Post-trimming FastQC ---
     echo "------------------------------------------------------------"

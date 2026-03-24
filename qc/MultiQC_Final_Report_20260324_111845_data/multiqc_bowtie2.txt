@@ -1,5 +1,0 @@
-Sample	total_reads	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
-BQ_bowtie_stats_20260324_111845	1006197	1006197	171763	797484	36950	82.93
-Long_bowtie_stats_20260324_111845	358770	358770	0	339697	19073	100.0
-Negative_bowtie_stats_20260324_111845	1068505	1068505	306	1012843	55356	99.97
-Positive_bowtie_stats_20260324_111845	1068507	1068507	306	1012845	55356	99.97

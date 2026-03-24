@@ -1,7 +1,6 @@
-This is cutadapt 4.4 with Python 3.7.12
+This is cutadapt 5.2 with Python 3.9.25
 Command line parameters: -q 15 -m 50 --trim-n -o ./data/trimmed/Positive_trimmed.fq ./data/raw/Positive.fq
 Processing single-end reads on 1 core ...
-Finished in 7.557 s (7.021 µs/read; 8.55 M reads/minute).
 
 === Summary ===
 

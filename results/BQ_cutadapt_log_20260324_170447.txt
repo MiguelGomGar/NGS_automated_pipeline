@@ -1,7 +1,6 @@
-This is cutadapt 4.4 with Python 3.7.12
+This is cutadapt 5.2 with Python 3.9.25
 Command line parameters: -q 15 -m 50 --trim-n -o ./data/trimmed/BQ_trimmed.fq ./data/raw/BQ.fq
 Processing single-end reads on 1 core ...
-Finished in 8.525 s (7.848 µs/read; 7.64 M reads/minute).
 
 === Summary ===
 

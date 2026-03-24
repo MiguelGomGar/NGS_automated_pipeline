@@ -1,9 +1,0 @@
-Sample	Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate	Cutadapt_mqc-generalstats-cutadapt-percent_trimmed
-BQ		21.49942811905422
-BQ_bowtie_stats_20260324_111845	82.93	
-Long		0.0
-Long_bowtie_stats_20260324_111845	100.0	
-Negative		15.869563711126172
-Negative_bowtie_stats_20260324_111845	99.97	
-Positive		0.7258993607848967
-Positive_bowtie_stats_20260324_111845	99.97	
